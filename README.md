@@ -1,2 +1,22 @@
-# learn-plt
-Curated List of Reading Materials for Learning about Programming Language Theory Research, Formal Methods and some of the related fields. 
+# Programming Language Theory & Formal Methods - Reading Materials 
+
+## Lectures
+- absint
+
+## Books
+- Robert Harper
+
+## Blogs
+- sdiehl
+
+## Tools
+- coq
+- z3
+
+## Projects
+- verfai
+- zzzzz
+
+## Upcoming Challenges 
+- challenges in making AI secure
+
