@@ -2,7 +2,7 @@
 
 Formal methods are mathematical techniques that are used for design, verification and specifications of software and hardware problems. These are essentially a subset of **Programming Language Theory research** that are being used to study complex computer science problems.
 
-Formal Methods basically involves these steps :
+Analysis by Formal Methods basically involves these steps :
 1. `Formal Specification`  
 2. `Formal Proofs` 
 3. `Model Checking` 
@@ -15,29 +15,29 @@ Here is my attempt to curate a list of useful reading materials and tools accomp
 
 ## Books & Lectures
 
-- **Software Foundations** https://softwarefoundations.cis.upenn.edu/ : I highly advise this as a starting material for diving deep into this field. The book is very helpful in building basic concepts and serves as a very sound introduction to the research field.
+- **Software Foundations** https://softwarefoundations.cis.upenn.edu/ : I highly advice this as a starting material for diving deep into this field. The book is very helpful in building basic concepts and serves as a very sound introduction to the research field.
 
 - **Interactive Theorem Proving - Adam Chlipala**
 
-- **Abstract Interpretation**
+- **Abstract Interpretation - Patrick Cousot**
 
 ## Blogs
-- sdiehl
+- https://www.eeweb.com/profile/adarbari/articles/getting-started-with-formal-verification 
 
 ## Tools
 
 ### Proof Assistants
 
 - coq
-- z3
 - Nuprl
 - Isabelle
+- lean
 
 ### SAT/SMT/SMC solvers
-SMT
+- z3
 
 ### Hybrid Solvers
-
+- fstar
 
 ## Projects
 - verfai
@@ -45,4 +45,13 @@ SMT
 
 ## Upcoming Challenges 
 - challenges in making AI secure
+
+## Related Industries & Startups
+- **[Galois Inc](https://galois.com/)**
+- **[Synthetic Minds](https://synthetic-minds.com/)**
+- **[Nomadic Labs](https://www.nomadic-labs.com/)**
+
+
+
+
 
