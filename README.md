@@ -1,4 +1,4 @@
-# Programming Language Theory & Formal Methods - Reading Materials 
+# Programming Language Theory & Formal Methods - Resources
 
 Formal methods are mathematical techniques that are used for design, verification and specifications of software and hardware problems. These are essentially a subset of **Programming Language Theory research** that are being used to study complex computer science problems.
 
@@ -7,6 +7,8 @@ Analysis by Formal Methods basically involves these steps :
 2. `Formal Proofs` 
 3. `Model Checking` 
 4. `Abstraction` 
+
+The formal proof development and model checking are primarily done using interactive theorem provers often called as proof Assistants. Abstraction is creating structurally sound relations between parts of models. 
 
 Here is my attempt to curate a list of useful reading materials and tools accompanied by some upcoming challenges in the field.
 
@@ -33,15 +35,22 @@ Here is my attempt to curate a list of useful reading materials and tools accomp
 - Isabelle
 - lean
 
+It is now also possible to extract the proofs into a ML code. Coq does it beautifully.
+
 ### SAT/SMT/SMC solvers
+
 - z3
 
+
 ### Hybrid Solvers
-- fstar
+Proof Assitants have very strong implmentations of program logics. Sometimes it may not be tactically possible to carry out complex proofs only by using them. Therefore Current research combines this principle of strong logic based reasoning with powerful SMT and SMC solvers to ease the proof development. Some examples are here below :
+
+- **[Fstar(F*)](https://github.com/FStarLang/FStar)**
+  + It is possible to extract F* code to C using KreMLin.
 
 ## Projects
-- verfai
-- zzzzz
+- Compcert
+- 
 
 ## Upcoming Challenges 
 - challenges in making AI secure
@@ -50,8 +59,8 @@ Here is my attempt to curate a list of useful reading materials and tools accomp
 - **[Galois Inc](https://galois.com/)**
 - **[Synthetic Minds](https://synthetic-minds.com/)**
 - **[Nomadic Labs](https://www.nomadic-labs.com/)**
-
-
+- **[Tezos](https://tezos.com/)**
+- **[JaneStreet](https://www.janestreet.com/technology/)**
 
 
 
