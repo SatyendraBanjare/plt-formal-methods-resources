@@ -39,21 +39,41 @@ It is now also possible to extract the proofs into a ML code. Coq does it beauti
 
 ### SAT/SMT/SMC solvers
 
-- z3
+SAT Solvers :
+- [MiniSat](https://github.com/niklasso/minisat).
 
+SMT Solvers :
+- [Z3](https://github.com/Z3Prover/z3)
+- [MathSAT5](http://mathsat.fbk.eu/)
+- [SMTInterpol](https://ultimate.informatik.uni-freiburg.de/smtinterpol/)
+- [Princess](http://www.philipp.ruemmer.org/princess.shtml)
+
+SMC Solvers :
+- [Publication](https://people.eecs.berkeley.edu/~sseshia/pubdir/hscc17-smc.pdf)
 
 ### Hybrid Solvers
 Proof Assitants have very strong implmentations of program logics. Sometimes it may not be tactically possible to carry out complex proofs only by using them. Therefore Current research combines this principle of strong logic based reasoning with powerful SMT and SMC solvers to ease the proof development. Some examples are here below :
 
 - **[Fstar(F*)](https://github.com/FStarLang/FStar)**
-  + It is possible to extract F* code to C using KreMLin.
+  + It is possible to extract F* code to C using [KreMLin](https://github.com/FStarLang/kremlin).
+- **[SMTCoq](https://github.com/smtcoq/smtcoq)**
 
 ## Projects
-- Compcert
-- 
+- [Compcert](https://github.com/AbsInt/CompCert)
+- [ikos](https://github.com/NASA-SW-VnV/ikos)
+- [DeepSpec](https://deepspec.org/main)
+- [Project Everest](https://github.com/project-everest).
 
 ## Upcoming Challenges 
-- challenges in making AI secure
+- Software Security.
+- Differential Privacy.
+- Applications in securing Databases.
+- Applications in BLock Chain Security.
+- challenges in making AI secure.
+- Development of Quantum Programming Language.
+- Languages Refinement using formal methods.
+- Create secure CyberPhysical Systems.
+- Create Secure AI systems.
 
 ## Related Industries & Startups
 - **[Galois Inc](https://galois.com/)**
