@@ -30,10 +30,11 @@ Here is my attempt to curate a list of useful reading materials and tools accomp
 
 ### Proof Assistants
 
-- coq
-- Nuprl
-- Isabelle
-- lean
+- [coq](https://coq.inria.fr/)
+- [Nuprl](http://www.nuprl.org/)
+- [Isabelle](https://isabelle.in.tum.de/)
+- [lean](https://leanprover.github.io/)
+- [Agda](https://github.com/agda/agda)
 
 It is now also possible to extract the proofs into a ML code. Coq does it beautifully.
 
@@ -47,6 +48,7 @@ SMT Solvers :
 - [MathSAT5](http://mathsat.fbk.eu/)
 - [SMTInterpol](https://ultimate.informatik.uni-freiburg.de/smtinterpol/)
 - [Princess](http://www.philipp.ruemmer.org/princess.shtml)
+- [CVC4](https://github.com/CVC4/CVC4)
 
 SMC Solvers :
 - [Publication](https://people.eecs.berkeley.edu/~sseshia/pubdir/hscc17-smc.pdf)
@@ -59,10 +61,13 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 - **[SMTCoq](https://github.com/smtcoq/smtcoq)**
 
 ## Projects
-- [Compcert](https://github.com/AbsInt/CompCert)
-- [ikos](https://github.com/NASA-SW-VnV/ikos)
-- [DeepSpec](https://deepspec.org/main)
-- [Project Everest](https://github.com/project-everest).
+- [DeepSpec](https://deepspec.org/main) is an umbrella project that focuses on building verified software systems. Follwoing major sub-projects are actively worked upon : 
+  + [Compcert](https://github.com/AbsInt/CompCert)
+  + [Verified LLVM (VeLLVM)](https://github.com/vellvm/vellvm)
+  + [Verified Software ToolChain (VST)](https://github.com/PrincetonUniversity/VST)
+  
+- [ikos](https://github.com/NASA-SW-VnV/ikos) is a reliable **bug-free** C compiler based on the theory of abstract interpretation.
+- [Project Everest](https://github.com/project-everest) is research project that aims at creating secure and verified HTTPS ecosystem.
 
 ## Upcoming Challenges 
 - Software Security.
@@ -73,7 +78,6 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 - Development of Quantum Programming Language.
 - Languages Refinement using formal methods.
 - Create secure CyberPhysical Systems.
-- Create Secure AI systems.
 
 ## Related Industries & Startups
 - **[Galois Inc](https://galois.com/)**
