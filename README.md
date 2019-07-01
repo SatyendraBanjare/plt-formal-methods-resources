@@ -38,11 +38,16 @@ Here is my attempt to curate a list of useful reading materials and tools accomp
 
 ### Proof Assistants
 
-- [coq](https://coq.inria.fr/)
+- [coq](https://coq.inria.fr/) 
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [Nuprl](http://www.nuprl.org/)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [Isabelle](https://isabelle.in.tum.de/)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [lean](https://leanprover.github.io/)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [Agda](https://github.com/agda/agda)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 
 It is now also possible to extract the proofs into a ML code. Coq does it beautifully.
 
@@ -53,10 +58,15 @@ SAT Solvers :
 
 SMT Solvers :
 - [Z3](https://github.com/Z3Prover/z3)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [MathSAT5](http://mathsat.fbk.eu/)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [SMTInterpol](https://ultimate.informatik.uni-freiburg.de/smtinterpol/)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [Princess](http://www.philipp.ruemmer.org/princess.shtml)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [CVC4](https://github.com/CVC4/CVC4)
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 
 SMC Solvers :
 - [Publication](https://people.eecs.berkeley.edu/~sseshia/pubdir/hscc17-smc.pdf)
@@ -66,6 +76,7 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 
 - **[Fstar(F*)](https://github.com/FStarLang/FStar)**
   + It is possible to extract F* code to C using [KreMLin](https://github.com/FStarLang/kremlin).
+  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - **[SMTCoq](https://github.com/smtcoq/smtcoq)**
 
 ## Projects
@@ -78,14 +89,30 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 - [Project Everest](https://github.com/project-everest) is research project that aims at creating secure and verified HTTPS ecosystem.
 
 ## Upcoming Challenges 
-- Software Security.
-- Differential Privacy.
-- Applications in securing Databases.
-- Applications in BLock Chain Security.
-- challenges in making AI secure.
-- Development of Quantum Programming Language.
-- Languages Refinement using formal methods.
-- Create secure CyberPhysical Systems.
+- **Software Security**
+  + Readings
+  + Videos 
+- **Differential Privacy**
+  + Readings
+  + Videos
+- **Applications in BLock Chain Security**
+  + Readings
+  + Videos
+- **Challenges in making AI secure**
+  + Readings
+  + Videos
+- **Development of Quantum Programming Language**
+  + Readings
+  + Videos
+- **Languages Refinement using formal methods**
+  + Readings
+  + Videos
+- **Create secure CyberPhysical Systems**
+  + Readings
+  + Videos
+ - **Applications in securing Databases**
+  + Readings
+  + Videos
 
 ## Related Industries & Startups
 - **[Galois Inc](https://galois.com/)**
