@@ -12,8 +12,16 @@ The formal proof development and model checking are primarily done using interac
 
 Here is my attempt to curate a list of useful reading materials and tools accompanied by some upcoming challenges in the field.
 
-**Note** : The reader is expected to have some basic knowledge of type theory. I highly encourage going through resources mentioned in here [learn-tt](https://github.com/jozefg/learn-tt).
+**[Note]** : The reader is expected to have some basic knowledge of type theory.
 
+## Contents
+
+- [Books & Lectures](#books--lectures)
+- [BLogs](#blogs)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Upcoming Challenges](#upcoming-challenges)
+- [Related Industries & Startups](#related-industries--startups)
 
 ## Books & Lectures
 
@@ -86,5 +94,6 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 - **[Tezos](https://tezos.com/)**
 - **[JaneStreet](https://www.janestreet.com/technology/)**
 
-
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
