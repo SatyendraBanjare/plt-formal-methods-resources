@@ -87,6 +87,7 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
   
 - [ikos](https://github.com/NASA-SW-VnV/ikos) is a reliable **bug-free** C compiler based on the theory of abstract interpretation.
 - [Project Everest](https://github.com/project-everest) is research project that aims at creating secure and verified HTTPS ecosystem.
+- [CertiCrypt](http://certicrypt.gforge.inria.fr/) is a project focuse on modelling public key cryptography using coq proof assistant.
 
 ## Upcoming Challenges 
 - **Software Security**
@@ -120,6 +121,7 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 - **[Nomadic Labs](https://www.nomadic-labs.com/)**
 - **[Tezos](https://tezos.com/)**
 - **[JaneStreet](https://www.janestreet.com/technology/)**
+- **[Systerel](http://www.systerel.fr/en/expertise/formal-methods/)**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
