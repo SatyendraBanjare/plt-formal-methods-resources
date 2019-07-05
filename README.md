@@ -23,7 +23,7 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
 ## Contents
 
 - [Books & Lectures](#books--lectures)
-- [BLogs](#blogs)
+- [Blogs](#blogs)
 - [MOOCs](#moocs)
 - [Tools](#tools)
 - [Projects](#projects)
@@ -42,7 +42,9 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
 
 - **[Abstract Interpretation - Patrick Cousot](http://web.mit.edu/16.399/www/)** The best available material on the theory of Abstract Interpretation. It gives a complete and pure mathematical analysis of program mutations. The Program behaviour as a continuously modifying relation between different abstract mathematical structures is explained and proved!!.  
 
-- **[Logic and Proof - CMU | Lean introduction](https://leanprover.github.io/logic_and_proof/)** ![Tool Used](https://img.shields.io/badge/Lean-based-green.svg) : This is course designed at CMU and it also serves as a introductory material for theorem proving in Lean 
+- **[Logic and Proof - CMU & Lean introduction](https://leanprover.github.io/logic_and_proof/)** ![Tool Used](https://img.shields.io/badge/Lean-based-green.svg) : This is course designed at CMU and it also serves as a introductory material for theorem proving in Lean 
+
+If you feel you need more theoretical insights, please refer [Note](#note-) above.
 
 ## Blogs
 - https://www.eeweb.com/profile/adarbari/articles/getting-started-with-formal-verification 
@@ -55,8 +57,7 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
 
 ### Proof Assistants
 
-- [coq](https://coq.inria.fr/) 
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
+- [coq](https://coq.inria.fr/) [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) The most popular and widely used theorem prover. It supports a lot of features including ML-extraction, Project packaging (Project and Makefile creation). There are plenty of `how-to` material available that use coq for formalization.
 - [Nuprl](http://www.nuprl.org/)
   + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [Isabelle](https://isabelle.in.tum.de/)
@@ -70,10 +71,10 @@ It is now also possible to extract the proofs into a ML code. Coq does it beauti
 
 ### SAT/SMT/SMC solvers
 
-SAT Solvers :
+#### SAT Solvers :
 - [MiniSat](https://github.com/niklasso/minisat).
 
-SMT Solvers :
+#### SMT Solvers :
 - [Z3](https://github.com/Z3Prover/z3)
   + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [MathSAT5](http://mathsat.fbk.eu/)
@@ -85,7 +86,7 @@ SMT Solvers :
 - [CVC4](https://github.com/CVC4/CVC4)
   + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 
-SMC Solvers :
+#### SMC Solvers :
 - [Publication](https://people.eecs.berkeley.edu/~sseshia/pubdir/hscc17-smc.pdf)
 
 ### Hybrid Solvers
@@ -107,6 +108,8 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 - [CertiCrypt](http://certicrypt.gforge.inria.fr/) is a project focuse on modelling public key cryptography using coq proof assistant.
 
 ## Upcoming Challenges 
+
+### Security Related
 - **Software Security**
   + Readings
     * aplha
@@ -115,24 +118,24 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 - **Differential Privacy**
   + Readings
   + Videos
-- **Applications in BLock Chain Security**
+- **Applications in Block Chain Security**
   + Readings
   + Videos
 - **Challenges in making AI secure**
   + Readings
   + Videos
+- **Create secure CyberPhysical Systems**
+  + Readings
+  + Videos
+
+### Programming Language Research related
 - **Development of Quantum Programming Language**
   + Readings
   + Videos
 - **Languages Refinement using formal methods**
   + Readings
   + Videos
-- **Create secure CyberPhysical Systems**
-  + Readings
-  + Videos
- - **Applications in securing Databases**
-  + Readings
-  + Videos
+
 
 ## Related Industries & Startups
 - **[Galois Inc](https://galois.com/)**
