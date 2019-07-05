@@ -1,5 +1,8 @@
 # Programming Language Theory & Formal Methods - Resources
 
+![FORSYTE group pics](http://forsyte.at/wp-content/uploads/wordle.png)
+**Image Courtsey : [Forsyte group](https://forsyte.at/)**
+
 Formal methods are mathematical techniques that are used for design, verification and specifications of software and hardware problems. These are essentially a subset of **Programming Language Theory research** that are being used to study complex computer science problems.
 
 Analysis by Formal Methods basically involves these steps :
@@ -10,9 +13,11 @@ Analysis by Formal Methods basically involves these steps :
 
 The formal proof development and model checking are primarily done using interactive theorem provers often called as proof Assistants. Abstraction is creating structurally sound relations between parts of models. 
 
-Here is my attempt to curate a list of useful reading materials and tools accompanied by some upcoming challenges in the field.
+Here is my attempt to curate a list of useful reading materials, videos and tools accompanied by some upcoming challenges in the field. 
 
-**[Note]** : The reader is expected to have some basic knowledge of type theory.
+**[NOTE]**: I have tried to make the content more focused on current research and industrial application. People looking for purely academic collection must refer [Formal Methods in Education - Jeremy Avigad](https://avigad.github.io/formal_methods_in_education/).
+
+**[NOTE]** : The reader is expected to have some basic knowledge of **[Type Theory](https://en.wikipedia.org/wiki/Type_theory)**. A more academic insight can be found here [learn-tt](https://github.com/jozefg/learn-tt).  
 
 ## Contents
 
@@ -25,10 +30,11 @@ Here is my attempt to curate a list of useful reading materials and tools accomp
 
 ## Books & Lectures
 
-- **Software Foundations** https://softwarefoundations.cis.upenn.edu/ : I highly advice this as a starting material for diving deep into this field. The book is very helpful in building basic concepts and serves as a very sound introduction to the research field.
+- **[Software Foundations](https://softwarefoundations.cis.upenn.edu/)** ![Tool Used](https://img.shields.io/badge/Coq-based-green.svg): I highly advice this as a starting material for diving deep into this field. The book is very helpful in building basic concepts and serves as a very sound introduction to the field. Beautifully illustrated concepts with examples to practice are provided all throughout making interactive theorem proving learning fun. 
 
-- **Interactive Theorem Proving - Adam Chlipala**
-
+- **[FRAP - Adam Chlipala](http://adam.chlipala.net/frap/)** : A book on formal correctness about the correctness of programs. 
+- **[Certified Programming with Dependent Types - Adam Chlipala](http://adam.chlipala.net/cpdt/)** : 
+- **[Jacques Fleuriot](http://www.inf.ed.ac.uk/teaching/courses/fv/)**
 - **Abstract Interpretation - Patrick Cousot**
 
 ## Blogs
@@ -92,6 +98,8 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 ## Upcoming Challenges 
 - **Software Security**
   + Readings
+    * aplha
+    * beta
   + Videos 
 - **Differential Privacy**
   + Readings
