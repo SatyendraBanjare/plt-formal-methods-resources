@@ -57,17 +57,11 @@ If you feel you need more theoretical insights, please refer [Note](#note-) abov
 
 ### Proof Assistants
 
-- [coq](https://coq.inria.fr/) [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) The most popular and widely used theorem prover. It supports a lot of features including ML-extraction, Project packaging (Project and Makefile creation). There are plenty of `how-to` material available that use coq for formalization.
-- [Nuprl](http://www.nuprl.org/)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
-- [Isabelle](https://isabelle.in.tum.de/)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
-- [lean](https://leanprover.github.io/)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
-- [Agda](https://github.com/agda/agda)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
-
-It is now also possible to extract the proofs into a ML code. Coq does it beautifully.
+- [coq](https://coq.inria.fr/): The most popular and widely used theorem prover. It supports a lot of features including ML-extraction, Project packaging (Project and Makefile creation). There are plenty of `how-to` material available that use coq for formalization. Anyone might find this very interesting [100 Theorems in Coq](https://github.com/coq/coq/wiki/Top100MathematicalTheoremsInCoq).
+- [lean](https://leanprover.github.io/): A fairly new Theorem Prover by **Microsoft Research**. Has a nice interactive tutorial, is easy to get started with.
+- [Nuprl](http://www.nuprl.org/) : Theorem Prover by **Cornell** under Proof Refinement Logic Project.
+- [Agda](https://github.com/agda/agda): A quite Mature Proof Assistant. Has features similar to Coq. easy to learn after some experience in coq.
+- [Isabelle](https://isabelle.in.tum.de/): It is an old theorem Prover. Has nice implementation of core logic but lacks other UX related features.
 
 ### SAT/SMT/SMC solvers
 
@@ -76,15 +70,10 @@ It is now also possible to extract the proofs into a ML code. Coq does it beauti
 
 #### SMT Solvers :
 - [Z3](https://github.com/Z3Prover/z3)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
-- [MathSAT5](http://mathsat.fbk.eu/)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
-- [SMTInterpol](https://ultimate.informatik.uni-freiburg.de/smtinterpol/)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
-- [Princess](http://www.philipp.ruemmer.org/princess.shtml)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - [CVC4](https://github.com/CVC4/CVC4)
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
+- [MathSAT5](http://mathsat.fbk.eu/)
+- [SMTInterpol](https://ultimate.informatik.uni-freiburg.de/smtinterpol/)
+- [Princess](http://www.philipp.ruemmer.org/princess.shtml)
 
 #### SMC Solvers :
 - [Publication](https://people.eecs.berkeley.edu/~sseshia/pubdir/hscc17-smc.pdf)
@@ -94,10 +83,12 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 
 - **[Fstar(F*)](https://github.com/FStarLang/FStar)**
   + It is possible to extract F* code to C using [KreMLin](https://github.com/FStarLang/kremlin).
-  + [![Community](https://img.shields.io/badge/Community-green.svg)](https://shields.io/) 
 - **[SMTCoq](https://github.com/smtcoq/smtcoq)**
 
 ## Projects
+
+Most of the projects are more or less development of the respective theorem provers or SAT/SMT/SMC/ solvers and hence can be looked up there. These are some of other projects actively developed.
+
 - [DeepSpec](https://deepspec.org/main) is an umbrella project that focuses on building verified software systems. Follwoing major sub-projects are actively worked upon : 
   + [Compcert](https://github.com/AbsInt/CompCert)
   + [Verified LLVM (VeLLVM)](https://github.com/vellvm/vellvm)
@@ -148,3 +139,4 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+Any suggestions are welcome. Please do consider submitting a pull request if you feel like !!
