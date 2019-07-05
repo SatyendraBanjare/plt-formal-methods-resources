@@ -59,6 +59,7 @@ If you feel you need more theoretical insights, please refer [Note](#note-) abov
 
 - [coq](https://coq.inria.fr/): The most popular and widely used theorem prover. It supports a lot of features including ML-extraction, Project packaging (Project and Makefile creation). There are plenty of `how-to` material available that use coq for formalization. Anyone might find this very interesting [100 Theorems in Coq](https://github.com/coq/coq/wiki/Top100MathematicalTheoremsInCoq).
 - [lean](https://leanprover.github.io/): A fairly new Theorem Prover by **Microsoft Research**. Has a nice interactive tutorial, is easy to get started with.
+- [PRISM model checker](https://www.prismmodelchecker.org/) : It is model checker developed by University of Oxford.
 - [Nuprl](http://www.nuprl.org/) : Theorem Prover by **Cornell** under Proof Refinement Logic Project.
 - [Agda](https://github.com/agda/agda): A quite Mature Proof Assistant. Has features similar to Coq. easy to learn after some experience in coq.
 - [Isabelle](https://isabelle.in.tum.de/): It is an old theorem Prover. Has nice implementation of core logic but lacks other UX related features.
@@ -95,16 +96,18 @@ Most of the projects are more or less development of the respective theorem prov
   + [Verified Software ToolChain (VST)](https://github.com/PrincetonUniversity/VST)
   
 - [ikos](https://github.com/NASA-SW-VnV/ikos) is a reliable **bug-free** C compiler based on the theory of abstract interpretation.
-- [Project Everest](https://github.com/project-everest) is research project that aims at creating secure and verified HTTPS ecosystem.
-- [CertiCrypt](http://certicrypt.gforge.inria.fr/) is a project focuse on modelling public key cryptography using coq proof assistant.
+- [Project Everest](https://github.com/project-everest): It is research project that aims at creating secure and verified HTTPS ecosystem.
+- [CertiCrypt](http://certicrypt.gforge.inria.fr/): It is a project focuse on modelling public key cryptography using coq proof assistant.
+- [Iris](https://iris-project.org/): Iris is a Higher-Order Concurrent Separation Logic Framework implemented and verified in the proof assistant Coq.
 
 ## Upcoming Challenges 
 
 ### Security Related
 - **Software Security**
   + Readings
-    * aplha
-    * beta
+    * [Formal Methods for Security, NSF workshop](https://arxiv.org/pdf/1608.00678.pdf)
+    * [Symbolic Relationship between Formal Methods and Security](http://www.cs.cmu.edu/~wing/publications/Wing98.pdf)
+    * [Project-Everest Research Papers](https://project-everest.github.io/papers/)
   + Videos 
 - **Differential Privacy**
   + Readings
