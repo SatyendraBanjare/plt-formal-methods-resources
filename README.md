@@ -15,14 +15,16 @@ The formal proof development and model checking are primarily done using interac
 
 Here is my attempt to curate a list of useful reading materials, videos and tools accompanied by some upcoming challenges in the field. 
 
-**[NOTE]**: I have tried to make the content more focused on current research and industrial application. People looking for purely academic collection must refer [Formal Methods in Education - Jeremy Avigad](https://avigad.github.io/formal_methods_in_education/).
+### NOTE :
+1. I have tried to make the content more focused on current research and industrial application. People looking for purely academic collection must refer [Formal Methods in Education - Jeremy Avigad](https://avigad.github.io/formal_methods_in_education/).
 
-**[NOTE]** : The reader is expected to have some basic knowledge of **[Type Theory](https://en.wikipedia.org/wiki/Type_theory)**. A more academic insight can be found here [learn-tt](https://github.com/jozefg/learn-tt).  
+2. The reader is expected to have some basic knowledge of **[Type Theory](https://en.wikipedia.org/wiki/Type_theory)**. A more academic insight can be found here [learn-tt](https://github.com/jozefg/learn-tt).  
 
 ## Contents
 
 - [Books & Lectures](#books--lectures)
 - [BLogs](#blogs)
+- [MOOCs](#moocs)
 - [Tools](#tools)
 - [Projects](#projects)
 - [Upcoming Challenges](#upcoming-challenges)
@@ -30,15 +32,24 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
 
 ## Books & Lectures
 
-- **[Software Foundations](https://softwarefoundations.cis.upenn.edu/)** ![Tool Used](https://img.shields.io/badge/Coq-based-green.svg): I highly advice this as a starting material for diving deep into this field. The book is very helpful in building basic concepts and serves as a very sound introduction to the field. Beautifully illustrated concepts with examples to practice are provided all throughout making interactive theorem proving learning fun. 
+- **[Software Foundations](https://softwarefoundations.cis.upenn.edu/)** ![Tool Used](https://img.shields.io/badge/Coq-based-green.svg) : I highly advice this as a starting material for diving deep into this field. The book is very helpful in building basic concepts and serves as a very sound introduction to the field. Beautifully illustrated concepts with examples to practice are provided all throughout making interactive theorem proving learning fun. 
 
-- **[FRAP - Adam Chlipala](http://adam.chlipala.net/frap/)** : A book on formal correctness about the correctness of programs. 
-- **[Certified Programming with Dependent Types - Adam Chlipala](http://adam.chlipala.net/cpdt/)** : 
-- **[Jacques Fleuriot](http://www.inf.ed.ac.uk/teaching/courses/fv/)**
-- **Abstract Interpretation - Patrick Cousot**
+- **[FRAP - Adam Chlipala](http://adam.chlipala.net/frap/)** ![Tool Used](https://img.shields.io/badge/Coq-based-green.svg) : A book that helps you understand and reason formal correctness of programs. Imperative language (**C**) inspired examples of data structures and algorithms helps immensely to begin thinking about their formal verification.
+
+- **[Certified Programming with Dependent Types - Adam Chlipala](http://adam.chlipala.net/cpdt/)** ![Tool Used](https://img.shields.io/badge/Coq-based-green.svg)  : One of the best `theoretical books` to learn theorem proving using coq.
+
+- **[Formal Verification - Jacques Fleuriot](http://www.inf.ed.ac.uk/teaching/courses/fv/)** : This a course that involves theorem proving using some more developed tools like [SAT](https://en.wikipedia.org/wiki/Boolean_satisfiability_problem) and [SMT](https://en.wikipedia.org/wiki/Satisfiability_modulo_theories) solvers.
+
+- **[Abstract Interpretation - Patrick Cousot](http://web.mit.edu/16.399/www/)** The best available material on the theory of Abstract Interpretation. It gives a complete and pure mathematical analysis of program mutations. The Program behaviour as a continuously modifying relation between different abstract mathematical structures is explained and proved!!.  
+
+- **[Logic and Proof - CMU | Lean introduction](https://leanprover.github.io/logic_and_proof/)** ![Tool Used](https://img.shields.io/badge/Lean-based-green.svg) : This is course designed at CMU and it also serves as a introductory material for theorem proving in Lean 
 
 ## Blogs
 - https://www.eeweb.com/profile/adarbari/articles/getting-started-with-formal-verification 
+
+## MOOCs
+- **[Formal Software Verification - edX](https://www.edx.org/course/formal-software-verification-0)**
+- **[Quantitative Model Checking -  Coursera](https://www.coursera.org/learn/quantitative-model-checking)**
 
 ## Tools
 
