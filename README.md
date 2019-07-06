@@ -114,10 +114,12 @@ Most of the projects are more or less development of the respective theorem prov
     * [Security Structures using Formal Methods](http://diyhpl.us/~nmz787/pdf/Security%20Architectures%20Using%20Formal%20Methods.pdf)
     * [Verification of Cryptographic Primitive](https://www.cs.princeton.edu/~appel/papers/verif-sha.pdf)
     * [Formal Certification of Game based Cryptographic proofs ](https://pastel.archives-ouvertes.fr/pastel-00584350/document)
+    * [Formal certification of code-based cryptographic proofs](https://dl.acm.org/citation.cfm?id=1480894)
   + Videos 
     * [DSL for Verified Secure Multiparty Computations in F*](https://youtu.be/pEBp-BoSDE8)
     * [Using Formal Methods for development of Highly Secure Systems](https://youtu.be/2OG-TQhVJRc)
     * [Security through FOrmal Methods and Secure Architecture (CERIAS - Purdue University)](https://youtu.be/XsBUKCgIH7g)
+    * [Language based techniques for Cryptography and Privacy](https://www.youtube.com/watch?v=4GAaum1VM_I)
 - **Differential Privacy**
   + Readings
     * [Formal Verification of Differential Privacy for Interactive Systems](https://arxiv.org/abs/1101.2819)
@@ -125,7 +127,19 @@ Most of the projects are more or less development of the respective theorem prov
     * [LightDP - Towards automating Differential Privacy Proofs](http://www.cse.psu.edu/~dbz5017/pub/popl17.pdf)
     * [EasyCrypt - Verified Computational Differential Privacy with Applications to Smart Meter](http://www0.cs.ucl.ac.uk/staff/G.Danezis/papers/easypriv.pdf)
     * [Proving Differential Privacy in Hoare Logic](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6957126)
-    * [Differentially Private Bayesian Programming](Differentially Private Bayesian Programming)
+    * [Differentially Private Bayesian Programming](https://dl.acm.org/citation.cfm?id=2978371)
+    * [Advanced Probabilistic Coupling for Differential Privacy](https://dl.acm.org/citation.cfm?id=2978391)
+  + Videos
+    * [Formal Methods and proofs of privacy properties - 1](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties)
+    * [Formal Methods and proofs of privacy properties - 2](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties-part-ii)
+    * [Formal Methods and proofs of privacy properties - 3](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties-part-iii)
+- **Probabilistic Programming**
+  + Readings
+    * [Probabilistic Logic Programming and Bayesian Networks](https://www.seas.upenn.edu/~cis700dr/Spring19/localpapers/haddawy2.pdf)
+     * [probabilistic Functions and Cryptographic Oracles in Higher Order Logic - Andreas Lochbihler](https://www7.in.tum.de/~schulzef/2016-06-03-Andreas-Lochbihler.pdf)
+     * [Probabilistic Relational Verification of Cryptographic implementations](https://dl.acm.org/citation.cfm?id=2535847)
+     * [Coupling Proofs are Probabilistic product programs](https://dl.acm.org/citation.cfm?id=3009896)
+     * [Advanced Probabilistic Coupling for Differential Privacy](https://dl.acm.org/citation.cfm?id=2978391)
   + Videos
 - **Applications in Block Chain Security**
   + Readings
