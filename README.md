@@ -103,7 +103,7 @@ Most of the projects are more or less development of the respective theorem prov
 ## Upcoming Challenges 
 
 ### Security Related
-- **Software Security**
+- ### Software Security
   + Readings
     * [Formal Methods for Security, NSF workshop](https://arxiv.org/pdf/1608.00678.pdf)
     * [Symbolic Relationship between Formal Methods and Security](http://www.cs.cmu.edu/~wing/publications/Wing98.pdf)
@@ -120,7 +120,7 @@ Most of the projects are more or less development of the respective theorem prov
     * [Using Formal Methods for development of Highly Secure Systems](https://youtu.be/2OG-TQhVJRc)
     * [Security through FOrmal Methods and Secure Architecture (CERIAS - Purdue University)](https://youtu.be/XsBUKCgIH7g)
     * [Language based techniques for Cryptography and Privacy](https://www.youtube.com/watch?v=4GAaum1VM_I)
-- **Differential Privacy**
+- ### Differential Privacy
   + Readings
     * [Formal Verification of Differential Privacy for Interactive Systems](https://arxiv.org/abs/1101.2819)
     * [Formal Methods for Privacy](https://apps.dtic.mil/dtic/tr/fulltext/u2/a507044.pdf)
@@ -133,7 +133,18 @@ Most of the projects are more or less development of the respective theorem prov
     * [Formal Methods and proofs of privacy properties - 1](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties)
     * [Formal Methods and proofs of privacy properties - 2](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties-part-ii)
     * [Formal Methods and proofs of privacy properties - 3](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties-part-iii)
-- **Probabilistic Programming**
+- ### Applications in Block Chain Security
+  + Readings
+  + Videos
+- ### Challenges in making AI secure
+  + Readings
+  + Videos
+- ### Create secure CyberPhysical Systems
+  + Readings
+  + Videos
+
+### Programming Language Research related
+- ### Probabilistic Programming
   + Readings
     * [Probabilistic Logic Programming and Bayesian Networks](https://www.seas.upenn.edu/~cis700dr/Spring19/localpapers/haddawy2.pdf)
      * [probabilistic Functions and Cryptographic Oracles in Higher Order Logic - Andreas Lochbihler](https://www7.in.tum.de/~schulzef/2016-06-03-Andreas-Lochbihler.pdf)
@@ -141,23 +152,13 @@ Most of the projects are more or less development of the respective theorem prov
      * [Coupling Proofs are Probabilistic product programs](https://dl.acm.org/citation.cfm?id=3009896)
      * [Advanced Probabilistic Coupling for Differential Privacy](https://dl.acm.org/citation.cfm?id=2978391)
   + Videos
-- **Applications in Block Chain Security**
+- ### Development of Quantum Programming Language 
   + Readings
   + Videos
-- **Challenges in making AI secure**
+- ### Languages Refinement using formal methods
   + Readings
   + Videos
-- **Create secure CyberPhysical Systems**
-  + Readings
-  + Videos
-
-### Programming Language Research related
-- **Development of Quantum Programming Language**
-  + Readings
-  + Videos
-- **Languages Refinement using formal methods**
-  + Readings
-  + Videos
+  
 
 
 ## Related Industries & Startups
