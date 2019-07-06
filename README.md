@@ -117,8 +117,15 @@ Most of the projects are more or less development of the respective theorem prov
   + Videos 
     * [DSL for Verified Secure Multiparty Computations in F*](https://youtu.be/pEBp-BoSDE8)
     * [Using Formal Methods for development of Highly Secure Systems](https://youtu.be/2OG-TQhVJRc)
+    * [Security through FOrmal Methods and Secure Architecture (CERIAS - Purdue University)](https://youtu.be/XsBUKCgIH7g)
 - **Differential Privacy**
   + Readings
+    * [Formal Verification of Differential Privacy for Interactive Systems](https://arxiv.org/abs/1101.2819)
+    * [Formal Methods for Privacy](https://apps.dtic.mil/dtic/tr/fulltext/u2/a507044.pdf)
+    * [LightDP - Towards automating Differential Privacy Proofs](http://www.cse.psu.edu/~dbz5017/pub/popl17.pdf)
+    * [EasyCrypt - Verified Computational Differential Privacy with Applications to Smart Meter](http://www0.cs.ucl.ac.uk/staff/G.Danezis/papers/easypriv.pdf)
+    * [Proving Differential Privacy in Hoare Logic](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6957126)
+    * [Differentially Private Bayesian Programming](Differentially Private Bayesian Programming)
   + Videos
 - **Applications in Block Chain Security**
   + Readings
