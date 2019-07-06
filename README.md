@@ -108,6 +108,8 @@ Most of the projects are more or less development of the respective theorem prov
     * [Formal Methods for Security, NSF workshop](https://arxiv.org/pdf/1608.00678.pdf)
     * [Symbolic Relationship between Formal Methods and Security](http://www.cs.cmu.edu/~wing/publications/Wing98.pdf)
     * [Project-Everest Research Papers](https://project-everest.github.io/papers/)
+    * [Formal Methods in SOftware Security](http://projects.laas.fr/IFSE/FMF/J7/slides/P01_TJensen.pdf)
+    * [Formal Methods for Safe and Secure Computers Systems]()
   + Videos 
 - **Differential Privacy**
   + Readings
