@@ -108,9 +108,15 @@ Most of the projects are more or less development of the respective theorem prov
     * [Formal Methods for Security, NSF workshop](https://arxiv.org/pdf/1608.00678.pdf)
     * [Symbolic Relationship between Formal Methods and Security](http://www.cs.cmu.edu/~wing/publications/Wing98.pdf)
     * [Project-Everest Research Papers](https://project-everest.github.io/papers/)
-    * [Formal Methods in SOftware Security](http://projects.laas.fr/IFSE/FMF/J7/slides/P01_TJensen.pdf)
-    * [Formal Methods for Safe and Secure Computers Systems]()
+    * [Formal Methods in Software Security](http://projects.laas.fr/IFSE/FMF/J7/slides/P01_TJensen.pdf)
+    * [Formal Methods for Safe and Secure Computers Systems](https://github.com/SatyendraBanjare/plt-formal-methods-resources/blob/master/books_and_articles/formal_methods_security.pdf)
+    * [The Computational Soundness of Formal Encryption](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.20.2584&rep=rep1&type=pdf)
+    * [Security Structures using Formal Methods](http://diyhpl.us/~nmz787/pdf/Security%20Architectures%20Using%20Formal%20Methods.pdf)
+    * [Verification of Cryptographic Primitive](https://www.cs.princeton.edu/~appel/papers/verif-sha.pdf)
+    * [Formal Certification of Game based Cryptographic proofs ](https://pastel.archives-ouvertes.fr/pastel-00584350/document)
   + Videos 
+    * [DSL for Verified Secure Multiparty Computations in F*](https://youtu.be/pEBp-BoSDE8)
+    * [Using Formal Methods for development of Highly Secure Systems](https://youtu.be/2OG-TQhVJRc)
 - **Differential Privacy**
   + Readings
   + Videos
