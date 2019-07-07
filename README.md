@@ -88,6 +88,8 @@ If you feel you need more theoretical insights, please refer [Note](#note-) abov
 
 - [Isabelle](https://isabelle.in.tum.de/): It is an old theorem Prover. Has nice implementation of core logic but lacks other UX related features.
 
+- [VCC](https://archive.codeplex.com/?p=vcc) : A mechanical verifier for concurrent C programs by Microsoft.
+
 ### SAT/SMT/SMC solvers
 
 #### SAT Solvers :
@@ -251,7 +253,7 @@ Most of the projects are more or less development of the respective theorem prov
     * [Monitoring Cyber Physical Systems](https://youtu.be/GFVUpabVLQA)
 
 ### Abstract Interpretation focused
- 
+
 - [Fast and Effective Robustness Certification](https://www.sri.inf.ethz.ch/publications/singh2018effective) : project DeepZ - for certifying neural network robustness based on abstract interpretation.
 - [AI2 : Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf)
 - [Boosting Robustness Certification of Neural Networks](https://files.sri.inf.ethz.ch/website/papers/RefineZono.pdf) : Uses Abstract Interpretation in its methodology.
@@ -277,7 +279,15 @@ Most of the projects are more or less development of the respective theorem prov
     
 - #### Development of Quantum Programming Language 
   + Readings
+    * [Qwire : Formal Verification of Quantum Programs in Coq](https://arxiv.org/pdf/1803.00699.pdf)
+    * [A Logic for Formal Verification of Quantum Programs](http://hagi.is.s.u-tokyo.ac.jp/~kakutani/files/asian09.pdf)
+    * [Coupling Techniques for Reasoning about Quantum Programs](https://arxiv.org/pdf/1901.05184.pdf)
+    * [Formal Verification vs Quantum Uncertainity](http://www.cs.umd.edu/~rrand/snapl_2019.pdf)
+    * [Model Checking Recursive Quantum Protocols](http://tequantum.eu/sites/tequantum.eu/files/documents/model-checking-recursive%282%29.pdf)
   + Videos
+    * [Mission-capable Quantum Computing for Software Verification and Validation (VV) - CMU ](https://www.youtube.com/watch?v=fV-r6Kx4IRw)
+    * [Dominique Unruh: Formal Verification of Quantum Cryptography](https://youtu.be/DgxnNyeWEuE)
+    
 - #### Languages Refinement using formal methods
   + Readings
   + Videos
