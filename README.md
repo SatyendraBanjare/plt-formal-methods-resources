@@ -289,9 +289,9 @@ Most of the projects are more or less development of the respective theorem prov
     * [Dominique Unruh: Formal Verification of Quantum Cryptography](https://youtu.be/DgxnNyeWEuE)
     
 - #### Languages Refinement using formal methods
-  + Readings
-  + Videos
-    * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo)
+
+This particularily deals with improving certain properties (like Parallelism & Concurrency) of existing programming languages. A lot can be easily looked up in regard to this since after all this is the sole most important reason to study PL theory. All the conferences listed up in here [ACM SIGPLAN](https://www.sigplan.org/Conferences/) have majority of research papers on programming language development do check them out.
+
 
 ## Related Industries & Startups
 - **[CertiK](https://certik.org/)**
