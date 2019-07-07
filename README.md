@@ -244,6 +244,7 @@ Most of the projects are more or less development of the respective theorem prov
     * [Verification of Cyber-Physical Systems](http://drops.dagstuhl.de/opus/volltexte/2014/4593/pdf/dagrep_v004_i003_p085_s14122.pdf)
     * [Verification and Validation in Cyber Physical Systems: Research Challenges and a Way Forward](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.697.6104&rep=rep1&type=pdf)
     * [Anomaly Detection in Cyber-Physical Systems: A Formal Methods Approach](https://www.researchgate.net/publication/277589625_Anomaly_Detection_in_Cyber-Physical_Systems_A_Formal_Methods_Approach)
+    * [Compositional Verification of Self-Adaptive Cyber-Physical Systems](http://oro.open.ac.uk/54307/1/__userdata_documents6_dl4356_Desktop_main.pdf)
   + Videos
     * [A Formal Methods Charter for Cyber-Physical Systems and Industrial Internet of Things](https://youtu.be/oFwhJALPwXE)
     * [Formal Verification of Cyber Physical Systems](https://vimeo.com/97778611)
@@ -258,13 +259,22 @@ Most of the projects are more or less development of the respective theorem prov
 ### Programming Language Research related
 - #### Probabilistic Programming
   + Readings
+    * [Formal Verification of Higher Order Probabilistic programs](https://arxiv.org/abs/1807.06091)
     * [Probabilistic Logic Programming and Bayesian Networks](https://www.seas.upenn.edu/~cis700dr/Spring19/localpapers/haddawy2.pdf)
     * [probabilistic Functions and Cryptographic Oracles in Higher Order Logic - Andreas Lochbihler](https://www7.in.tum.de/~schulzef/2016-06-03-Andreas-Lochbihler.pdf)
     * [Probabilistic Relational Verification of Cryptographic implementations](https://dl.acm.org/citation.cfm?id=2535847)
     * [Coupling Proofs are Probabilistic product programs](https://dl.acm.org/citation.cfm?id=3009896)
     * [Advanced Probabilistic Coupling for Differential Privacy](https://dl.acm.org/citation.cfm?id=2978391)
     * [Formal Methods for probabilistic Programming](https://pps2018.sice.indiana.edu/files/2017/12/dselsam_pps_2018.pdf)
+    * [Formal methods for probabilistic programs](http://www.cse.unsw.edu.au/~carrollm/ProbSem/lecture1print4up.pdf) : Lecture slides 
+    * [Probabilistic Programming - True Verification Challenge](https://research.utwente.nl/en/publications/probabilistic-programming-a-true-verification-challenge)
+    * [FairSquare : Probabilistic Verification of Program Fairness](http://pages.cs.wisc.edu/~loris/papers/oopsla17.pdf)
+    * [VPHL: A Verified Partial-Correctness Logic for Probabilistic Programs](https://www.sciencedirect.com/science/article/pii/S1571066115000882)
+    * [Unifying Logic and Probability](https://cacm.acm.org/magazines/2015/7/188745-unifying-logic-and-probability/fulltext)
   + Videos
+    * [Formal Verification of Higher Order Probabilistic Programs - POPL 2019 conference video](https://www.youtube.com/watch?v=s8qWM1lyVmI)
+    * [Probabilistic logic programming and its applications - Luc De Raedt, Leuven](https://youtu.be/3lnVBqxjC88)
+    
 - #### Development of Quantum Programming Language 
   + Readings
   + Videos
@@ -272,6 +282,7 @@ Most of the projects are more or less development of the respective theorem prov
   + Readings
   + Videos
     * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo)
+
 ## Related Industries & Startups
 - **[CertiK](https://certik.org/)**
 - **[Galois Inc](https://galois.com/)**
