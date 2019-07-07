@@ -226,13 +226,18 @@ Most of the projects are more or less development of the respective theorem prov
     * [Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks - Conference Video](https://www.youtube.com/watch?v=KiKS_zaPb64)
     * [Developing Bug-Free Machine Learning models using Certigrad - Daniel Selsam](https://www.youtube.com/watch?v=-A1tVNTHUFw)
     
-    
-
 - #### Create secure CyberPhysical Systems
 
   **[VeHICal](https://vehical.org/)** : Project focused on developing the foundations of verified co-design of interfaces and control for human cyber-physical systems.
+  
   + Readings
   + Videos
+
+### Abstract Interpretation focused
+ 
+- [Fast and Effective Robustness Certification](https://www.sri.inf.ethz.ch/publications/singh2018effective) : project DeepZ - for certifying neural network robustness based on abstract interpretation.
+- [AI2 : Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf)
+- [Boosting Robustness Certification of Neural Networks](https://files.sri.inf.ethz.ch/website/papers/RefineZono.pdf) : Uses Abstract Interpretation in its methodology.
 
 ### Programming Language Research related
 - #### Probabilistic Programming
@@ -250,15 +255,7 @@ Most of the projects are more or less development of the respective theorem prov
 - #### Languages Refinement using formal methods
   + Readings
   + Videos
-    * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo) 
- 
- ### Abstract Interpretation focused
- 
-- [Fast and Effective Robustness Certification](https://www.sri.inf.ethz.ch/publications/singh2018effective) : project DeepZ - for certifying neural network robustness based on abstract interpretation.
-- [AI2 : Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf)
-- [Boosting Robustness Certification of Neural Networks](https://files.sri.inf.ethz.ch/website/papers/RefineZono.pdf) : Uses Abstract Interpretation in its methodology.
-
-
+    * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo)
 ## Related Industries & Startups
 - **[CertiK](https://certik.org/)**
 - **[Galois Inc](https://galois.com/)**
