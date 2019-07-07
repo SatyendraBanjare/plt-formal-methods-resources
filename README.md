@@ -77,10 +77,15 @@ If you feel you need more theoretical insights, please refer [Note](#note-) abov
 ### Proof Assistants
 
 - [coq](https://coq.inria.fr/): The most popular and widely used theorem prover. It supports a lot of features including ML-extraction, Project packaging (Project and Makefile creation). There are plenty of `how-to` material available that use coq for formalization. Anyone might find this very interesting [100 Theorems in Coq](https://github.com/coq/coq/wiki/Top100MathematicalTheoremsInCoq).
+
 - [lean](https://leanprover.github.io/): A fairly new Theorem Prover by **Microsoft Research**. Has a nice interactive tutorial, is easy to get started with.
+
 - [PRISM model checker](https://www.prismmodelchecker.org/) : It is model checker developed by University of Oxford.
+
 - [Nuprl](http://www.nuprl.org/) : Theorem Prover by **Cornell** under Proof Refinement Logic Project.
+
 - [Agda](https://github.com/agda/agda): A quite Mature Proof Assistant. Has features similar to Coq. easy to learn after some experience in coq.
+
 - [Isabelle](https://isabelle.in.tum.de/): It is an old theorem Prover. Has nice implementation of core logic but lacks other UX related features.
 
 ### SAT/SMT/SMC solvers
@@ -89,10 +94,15 @@ If you feel you need more theoretical insights, please refer [Note](#note-) abov
 - [MiniSat](https://github.com/niklasso/minisat).
 
 #### SMT Solvers :
+
 - [Z3](https://github.com/Z3Prover/z3)
+
 - [CVC4](https://github.com/CVC4/CVC4)
+
 - [MathSAT5](http://mathsat.fbk.eu/)
+
 - [SMTInterpol](https://ultimate.informatik.uni-freiburg.de/smtinterpol/)
+
 - [Princess](http://www.philipp.ruemmer.org/princess.shtml)
 
 #### SMC Solvers :
@@ -103,6 +113,7 @@ Proof Assitants have very strong implmentations of program logics. Sometimes it 
 
 - **[Fstar(F*)](https://github.com/FStarLang/FStar)**
   + It is possible to extract F* code to C using [KreMLin](https://github.com/FStarLang/kremlin).
+
 - **[SMTCoq](https://github.com/smtcoq/smtcoq)**
 
 ## Projects
@@ -115,10 +126,15 @@ Most of the projects are more or less development of the respective theorem prov
   + [Verified Software ToolChain (VST)](https://github.com/PrincetonUniversity/VST)
   
 - [ikos](https://github.com/NASA-SW-VnV/ikos) is a reliable **bug-free** C compiler based on the theory of abstract interpretation.
+
 - [Project Everest](https://github.com/project-everest): It is research project that aims at creating secure and verified HTTPS ecosystem.
+
 - [CertiCrypt](http://certicrypt.gforge.inria.fr/): It is a project focuse on modelling public key cryptography using coq proof assistant.
+
 - [Iris](https://iris-project.org/): Iris is a Higher-Order Concurrent Separation Logic Framework implemented and verified in the proof assistant Coq.
+
 - [VeriDeep - Safety Verification of Deep Neural Networks](https://github.com/VeriDeep/DLV)
+
 - [VeHICal](https://vehical.org/) : Project focused on developing the foundations of verified co-design of interfaces and control for human cyber-physical systems.
 
 ## Upcoming Challenges 
@@ -179,7 +195,9 @@ Most of the projects are more or less development of the respective theorem prov
 
 - #### Challenges in making AI secure
   **[FLoC 2018- Summit of Machine Learning meets formal methods](https://www.floc2018.org/summit-on-machine-learning/)**
+  
   **[Verified Machine Learning - Radboud University Nijmegen](https://www.sws.cs.ru.nl/Teaching/VerifiedMachineLearning)** : University course on using verification methods in Machine Learning.
+  
   **[Formal Methods meets Machine Learning - RWTH Aachen University](https://moves.rwth-aachen.de/teaching/ss-18/fvmml/)** : 2018's seminar on advancements in Verifiably Secure Machine Learning using formal methods.
   
   + Readings
@@ -220,11 +238,11 @@ Most of the projects are more or less development of the respective theorem prov
 - #### Probabilistic Programming
   + Readings
     * [Probabilistic Logic Programming and Bayesian Networks](https://www.seas.upenn.edu/~cis700dr/Spring19/localpapers/haddawy2.pdf)
-     * [probabilistic Functions and Cryptographic Oracles in Higher Order Logic - Andreas Lochbihler](https://www7.in.tum.de/~schulzef/2016-06-03-Andreas-Lochbihler.pdf)
-     * [Probabilistic Relational Verification of Cryptographic implementations](https://dl.acm.org/citation.cfm?id=2535847)
-     * [Coupling Proofs are Probabilistic product programs](https://dl.acm.org/citation.cfm?id=3009896)
-     * [Advanced Probabilistic Coupling for Differential Privacy](https://dl.acm.org/citation.cfm?id=2978391)
-     * [Formal Methods for probabilistic Programming](https://pps2018.sice.indiana.edu/files/2017/12/dselsam_pps_2018.pdf)
+    * [probabilistic Functions and Cryptographic Oracles in Higher Order Logic - Andreas Lochbihler](https://www7.in.tum.de/~schulzef/2016-06-03-Andreas-Lochbihler.pdf)
+    * [Probabilistic Relational Verification of Cryptographic implementations](https://dl.acm.org/citation.cfm?id=2535847)
+    * [Coupling Proofs are Probabilistic product programs](https://dl.acm.org/citation.cfm?id=3009896)
+    * [Advanced Probabilistic Coupling for Differential Privacy](https://dl.acm.org/citation.cfm?id=2978391)
+    * [Formal Methods for probabilistic Programming](https://pps2018.sice.indiana.edu/files/2017/12/dselsam_pps_2018.pdf)
   + Videos
 - #### Development of Quantum Programming Language 
   + Readings
@@ -232,7 +250,7 @@ Most of the projects are more or less development of the respective theorem prov
 - #### Languages Refinement using formal methods
   + Readings
   + Videos
-    * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo)
+    * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo) 
  
  ### Abstract Interpretation focused
  
