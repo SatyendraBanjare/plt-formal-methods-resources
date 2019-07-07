@@ -35,11 +35,11 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
     * [Applications in Block Chain Security](#applications-in-block-chain-security)
     * [Challenges in Making AI secure](#challenges-in-making-ai-secure)
     * [Create Secure CyberPhysical Systems](#create-secure-cyberphysical-systems)
+  + [Abstract Interpretation focused](#abstract-interpretation-focused)
   + [Programming Language research related](#programming-language-research-related)
     * [Probabilistic Programming](#probabilistic-programming)
     * [Development of Quantum Programming Language](#development-of-quantum-programming-language)
     * [Language Refinement using formal methods](#languages-refinement-using-formal-methods)
-  + [Abstract Interpretation focused](#abstract-interpretation-focused)
 - [Related Industries & Startups](#related-industries--startups)
 
 ## Books & Lectures
@@ -137,6 +137,10 @@ Most of the projects are more or less development of the respective theorem prov
 
 - [VeHICal](https://vehical.org/) : Project focused on developing the foundations of verified co-design of interfaces and control for human cyber-physical systems.
 
+- [FastSMT](https://github.com/eth-sri/fastsmt) - Tool to augment your SMT solver by learning to optimize its performance for your dataset of formulas. It is developed by SRI lab, ETH Zurich built on top of Z3 SMT solver.
+
+- [fm4cps](https://project.inria.fr/fm4cps/) - Formal methods for Cyber Physical Systems, joint efforts by INRIA and ECNU shanghai.
+
 ## Upcoming Challenges 
 
 ### Security Related
@@ -230,8 +234,20 @@ Most of the projects are more or less development of the respective theorem prov
 
   **[VeHICal](https://vehical.org/)** : Project focused on developing the foundations of verified co-design of interfaces and control for human cyber-physical systems.
   
+  **[fm4cps](https://project.inria.fr/fm4cps/)** - Formal methods for Cyber Physical Systems, joint efforts by INRIA and ECNU shanghai.
+  
   + Readings
+    * [Cyber-Physical Systems Design: Formal Foundations, Methods and Integrated Tool Chains](http://www-users.cs.york.ac.uk/~jw524/papers/FitzgeraldGLPW15.pdf)
+    * [New Frontiers in Formal Methods: Learning, Cyber-Physical Systems, Education, and Beyond](https://pdfs.semanticscholar.org/4905/7d3b250776e4dd45bc2f8abc1ed1c9da32b2.pdf)
+    * [Statistical Model Checking for Cyber-Physical Systems ](http://www.cs.cmu.edu/afs/cs/user/emc/www/papers/Conference%20Papers/Statistical%20Model%20Checking%20for%20Cyber-Physical%20Systems.pdf)
+    * [Formal Verification of Transportation Cyber Physical Systems](https://labs.ece.uw.edu/nsl/aar-cps/AshishTiwari-20081020171443.pdf)
+    * [Verification of Cyber-Physical Systems](http://drops.dagstuhl.de/opus/volltexte/2014/4593/pdf/dagrep_v004_i003_p085_s14122.pdf)
+    * [Verification and Validation in Cyber Physical Systems: Research Challenges and a Way Forward](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.697.6104&rep=rep1&type=pdf)
+    * [Anomaly Detection in Cyber-Physical Systems: A Formal Methods Approach](https://www.researchgate.net/publication/277589625_Anomaly_Detection_in_Cyber-Physical_Systems_A_Formal_Methods_Approach)
   + Videos
+    * [A Formal Methods Charter for Cyber-Physical Systems and Industrial Internet of Things](https://youtu.be/oFwhJALPwXE)
+    * [Formal Verification of Cyber Physical Systems](https://vimeo.com/97778611)
+    * [Monitoring Cyber Physical Systems](https://youtu.be/GFVUpabVLQA)
 
 ### Abstract Interpretation focused
  
