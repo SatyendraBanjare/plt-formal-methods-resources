@@ -39,6 +39,7 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
     * [Probabilistic Programming](#probabilistic-programming)
     * [Development of Quantum Programming Language](#development-of-quantum-programming-language)
     * [Language Refinement using formal methods](#languages-refinement-using-formal-methods)
+  + [Abstract Interpretation focused](#abstract-interpretation-focused)
 - [Related Industries & Startups](#related-industries--startups)
 
 ## Books & Lectures
@@ -58,13 +59,18 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
 If you feel you need more theoretical insights, please refer [Note](#note-) above.
 
 ## Blogs
+
 - [Getting Started with formal methods](https://www.eeweb.com/profile/adarbari/articles/getting-started-with-formal-verification)
 - [K Framework & efforts of Formal verification in Blockchain](https://medium.com/epicenterpodcast/the-k-framework-formal-verification-efforts-in-the-blockchain-space-1651b789e5d4)
 - [Pact Formal Verification for Blockchain smart contracts](https://medium.com/kadena-io/pact-formal-verification-for-blockchain-smart-contracts-done-right-889058bd8c3f) : Awesome short blog explaining the **Pact FV's** methodology with a small introduction to formal verification by first principles.
+- [Towards Robust and Verified AI: Specification Testing, Robust Training, and Formal Verification - **DeepMind**](https://deepmind.com/blog/robust-and-verified-ai/)
+- [The challenge of verification and testing of machine learning - **Ian GoodFellow & Nicolas Papernot**](http://www.cleverhans.io/security/privacy/ml/2017/06/14/verification.html)
 
 ## MOOCs
+
 - **[Formal Software Verification - edX](https://www.edx.org/course/formal-software-verification-0)**
 - **[Quantitative Model Checking -  Coursera](https://www.coursera.org/learn/quantitative-model-checking)**
+- **[Cyber Physical Systems](https://www.edx.org/course/cyber-physical-systems)** : Course by UC Berkeley, focused in using verification methods for modelling Cyper Physical systems (CPS).
 
 ## Tools
 
@@ -112,6 +118,8 @@ Most of the projects are more or less development of the respective theorem prov
 - [Project Everest](https://github.com/project-everest): It is research project that aims at creating secure and verified HTTPS ecosystem.
 - [CertiCrypt](http://certicrypt.gforge.inria.fr/): It is a project focuse on modelling public key cryptography using coq proof assistant.
 - [Iris](https://iris-project.org/): Iris is a Higher-Order Concurrent Separation Logic Framework implemented and verified in the proof assistant Coq.
+- [VeriDeep - Safety Verification of Deep Neural Networks](https://github.com/VeriDeep/DLV)
+- [VeHICal](https://vehical.org/) : Project focused on developing the foundations of verified co-design of interfaces and control for human cyber-physical systems.
 
 ## Upcoming Challenges 
 
@@ -155,7 +163,7 @@ Most of the projects are more or less development of the respective theorem prov
 
   **[Formal Methods for Block Chains](https://sites.google.com/view/fmbc/)** : This is first ever workshop focused on using formal methods in Block Chain technology. It will be on _11th October 2019_.
   
-  **[CertiK]([CertiK](https://certik.org/)** : It is a startup focused on using formal methods to make blockchains verifialbly secure.
+  **[CertiK](https://certik.org/)** : It is a startup focused on using formal methods to make blockchains verifialbly secure.
   
   + Readings
     * [How Formal Analysis and Verification Add Security to Blockchain-based Systems - Tutorial @ MIT](https://pdfs.semanticscholar.org/aef7/0c6c305eec9df96e2b58a593bd60ba66c16a.pdf)
@@ -167,12 +175,44 @@ Most of the projects are more or less development of the respective theorem prov
   + Videos
     * [Formal Design, Implementation and Verification of BlockChain Languages](https://testnet.iohkdev.io/iele/about/formal-verification/)
     * [CertiK - Smart contract formal verification platform (review)](https://www.youtube.com/watch?v=pLOR_WuoPaY)
+    * [Simplicity - A new Language for blockchains](https://blockstream.com/2018/02/08/en-simplicity-a-new-language-for-blockchains-bpase/)
 
 - #### Challenges in making AI secure
+  **[FLoC 2018- Summit of Machine Learning meets formal methods](https://www.floc2018.org/summit-on-machine-learning/)**
+  **[Verified Machine Learning - Radboud University Nijmegen](https://www.sws.cs.ru.nl/Teaching/VerifiedMachineLearning)** : University course on using verification methods in Machine Learning.
+  **[Formal Methods meets Machine Learning - RWTH Aachen University](https://moves.rwth-aachen.de/teaching/ss-18/fvmml/)** : 2018's seminar on advancements in Verifiably Secure Machine Learning using formal methods.
+  
   + Readings
+    * [Towards Verified Artificial Intelligence - S. Seshia](https://arxiv.org/pdf/1606.08514.pdf)
+    * [Towards Robust and Verified AI: Specification Testing, Robust Training, and Formal Verification - **DeepMind**](https://deepmind.com/blog/robust-and-verified-ai/)
+    * [Developing BugFree Machine Learning Systems with Formal Mathematics](https://arxiv.org/pdf/1706.08605.pdf)
+    * [Mixing Formal methods, Machine Learning & Human Computer Interaction](https://www.aaai.org/ocs/index.php/FSS/FSS16/paper/viewPDFInterstitial/14127/13686)
+    * [Machine Learning in Formal Methods](http://www.cs.utexas.edu/users/hunt/FMCAD/FMCAD16/slides/tutorial1.pdf)
+    * [Machine Learning and Formal Methods](http://drops.dagstuhl.de/opus/volltexte/2018/8430/pdf/dagrep_v007_i008_p055_17351.pdf)
+    * [Algorithms for Verifying Deep Neural Networks](https://arxiv.org/pdf/1903.06758.pdf)
+    * [Safety Verification of Deep Neural Networks](http://qav.comlab.ox.ac.uk/papers/hkww17.pdf)
+    * [The challenge of verification and testing of machine learning - **Ian GoodFellow & Nicolas Papernot**](http://www.cleverhans.io/security/privacy/ml/2017/06/14/verification.html)
+    * [Verifying Properties of Binarized Deep Neural Networks](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16898/16241)
+    * [Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks](https://arxiv.org/pdf/1702.01135.pdf)
+    * [Verification of Piecewise Linear Feed Forward Networks](https://arxiv.org/pdf/1705.01320.pdf)
+    * [Challenges in Verification of Reinforcement Learning Algorithms](https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/20170007190.pdf)
+    * [Applying Formal Methods in Reinforcement Learning - Galois Inc.](https://galois.com/wp-content/uploads/2017/10/galois-formal-methods-reinforcement-learning.pdf)
+    * [Towards Proving the Adversarial Robustness of Deep Neural Networks](https://arxiv.org/pdf/1709.02802.pdf)
+    
   + Videos
+    * [Safety Verification for Deep Neural Networks -ICST 2018](https://www.youtube.com/watch?v=OTXEzJnzUV0)
+    * [Safety Verification for Deep Neural Networks - Marta Kwiatkowska - CAV 2017](https://www.youtube.com/watch?v=XHdVnGxQBfQ)
+    * [Safety Verification for Deep Neural Networks -INRIA ](https://www.canal-u.tv/video/inria/safety_verification_of_deep_neural_networks.25215)
+    * [Rules of Machine Learning Verification, from data driven bugs to explainable AI](https://www.oreilly.com/library/view/oreilly-artificial-intelligence/9781491976289/video311845.html)
+    * [Verification of Machine Learning Programs](https://www.youtube.com/watch?v=Reo5REo71GU)
+    * [Reluplex: An Efficient SMT Solver for Verifying Deep Neural Networks - Conference Video](https://www.youtube.com/watch?v=KiKS_zaPb64)
+    * [Developing Bug-Free Machine Learning models using Certigrad - Daniel Selsam](https://www.youtube.com/watch?v=-A1tVNTHUFw)
+    
+    
 
 - #### Create secure CyberPhysical Systems
+
+  **[VeHICal](https://vehical.org/)** : Project focused on developing the foundations of verified co-design of interfaces and control for human cyber-physical systems.
   + Readings
   + Videos
 
@@ -184,6 +224,7 @@ Most of the projects are more or less development of the respective theorem prov
      * [Probabilistic Relational Verification of Cryptographic implementations](https://dl.acm.org/citation.cfm?id=2535847)
      * [Coupling Proofs are Probabilistic product programs](https://dl.acm.org/citation.cfm?id=3009896)
      * [Advanced Probabilistic Coupling for Differential Privacy](https://dl.acm.org/citation.cfm?id=2978391)
+     * [Formal Methods for probabilistic Programming](https://pps2018.sice.indiana.edu/files/2017/12/dselsam_pps_2018.pdf)
   + Videos
 - #### Development of Quantum Programming Language 
   + Readings
@@ -192,7 +233,12 @@ Most of the projects are more or less development of the respective theorem prov
   + Readings
   + Videos
     * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo)
-  
+ 
+ ### Abstract Interpretation focused
+ 
+- [Fast and Effective Robustness Certification](https://www.sri.inf.ethz.ch/publications/singh2018effective) : project DeepZ - for certifying neural network robustness based on abstract interpretation.
+- [AI2 : Safety and Robustness Certification of Neural Networks with Abstract Interpretation](https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf)
+- [Boosting Robustness Certification of Neural Networks](https://files.sri.inf.ethz.ch/website/papers/RefineZono.pdf) : Uses Abstract Interpretation in its methodology.
 
 
 ## Related Industries & Startups
