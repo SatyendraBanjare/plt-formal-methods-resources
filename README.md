@@ -16,6 +16,7 @@ The formal proof development and model checking are primarily done using interac
 Here is my attempt to curate a list of useful reading materials, videos and tools accompanied by some upcoming challenges in the field. 
 
 ### NOTE :
+
 1. I have tried to make the content more focused on current research and industrial application. People looking for purely academic collection must refer [Formal Methods in Education - Jeremy Avigad](https://avigad.github.io/formal_methods_in_education/).
 
 2. The reader is expected to have some basic knowledge of **[Type Theory](https://en.wikipedia.org/wiki/Type_theory)**. A more academic insight can be found here [learn-tt](https://github.com/jozefg/learn-tt).  
@@ -57,7 +58,9 @@ Here is my attempt to curate a list of useful reading materials, videos and tool
 If you feel you need more theoretical insights, please refer [Note](#note-) above.
 
 ## Blogs
-- https://www.eeweb.com/profile/adarbari/articles/getting-started-with-formal-verification 
+- [Getting Started with formal methods](https://www.eeweb.com/profile/adarbari/articles/getting-started-with-formal-verification)
+- [K Framework & efforts of Formal verification in Blockchain](https://medium.com/epicenterpodcast/the-k-framework-formal-verification-efforts-in-the-blockchain-space-1651b789e5d4)
+- [Pact Formal Verification for Blockchain smart contracts](https://medium.com/kadena-io/pact-formal-verification-for-blockchain-smart-contracts-done-right-889058bd8c3f) : Awesome short blog explaining the **Pact FV's** methodology with a small introduction to formal verification by first principles.
 
 ## MOOCs
 - **[Formal Software Verification - edX](https://www.edx.org/course/formal-software-verification-0)**
@@ -113,6 +116,7 @@ Most of the projects are more or less development of the respective theorem prov
 ## Upcoming Challenges 
 
 ### Security Related
+
 - #### Software Security
   + Readings
     * [Formal Methods for Security, NSF workshop](https://arxiv.org/pdf/1608.00678.pdf)
@@ -126,10 +130,12 @@ Most of the projects are more or less development of the respective theorem prov
     * [Formal Certification of Game based Cryptographic proofs ](https://pastel.archives-ouvertes.fr/pastel-00584350/document)
     * [Formal certification of code-based cryptographic proofs](https://dl.acm.org/citation.cfm?id=1480894)
   + Videos 
+    * [Deep Specification for Dropbox](https://www.youtube.com/watch?v=Y2jQe8DFzUM)
     * [DSL for Verified Secure Multiparty Computations in F*](https://youtu.be/pEBp-BoSDE8)
     * [Using Formal Methods for development of Highly Secure Systems](https://youtu.be/2OG-TQhVJRc)
     * [Security through FOrmal Methods and Secure Architecture (CERIAS - Purdue University)](https://youtu.be/XsBUKCgIH7g)
     * [Language based techniques for Cryptography and Privacy](https://www.youtube.com/watch?v=4GAaum1VM_I)
+
 - #### Differential Privacy
   + Readings
     * [Formal Verification of Differential Privacy for Interactive Systems](https://arxiv.org/abs/1101.2819)
@@ -143,12 +149,29 @@ Most of the projects are more or less development of the respective theorem prov
     * [Formal Methods and proofs of privacy properties - 1](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties)
     * [Formal Methods and proofs of privacy properties - 2](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties-part-ii)
     * [Formal Methods and proofs of privacy properties - 3](https://simons.berkeley.edu/talks/formal-methods-and-proofs-privacy-properties-part-iii)
+    * [Proving Differential privacy using Relational Types](https://simons.berkeley.edu/talks/tba-42)
+
 - #### Applications in Block Chain Security
+
+  **[Formal Methods for Block Chains](https://sites.google.com/view/fmbc/)** : This is first ever workshop focused on using formal methods in Block Chain technology. It will be on _11th October 2019_.
+  
+  **[CertiK]([CertiK](https://certik.org/)** : It is a startup focused on using formal methods to make blockchains verifialbly secure.
+  
   + Readings
+    * [How Formal Analysis and Verification Add Security to Blockchain-based Systems - Tutorial @ MIT](https://pdfs.semanticscholar.org/aef7/0c6c305eec9df96e2b58a593bd60ba66c16a.pdf)
+    * [Smart contracts and oppurtunities for formal methods](https://pdfs.semanticscholar.org/409b/a537907855706f64daf3cb2e3e344a971ffb.pdf)
+    * [K Framework & efforts of Formal verification in Blockchain](https://medium.com/epicenterpodcast/the-k-framework-formal-verification-efforts-in-the-blockchain-space-1651b789e5d4) an Awesome collection of explainatory material on K framework and its application in verifying Blockchain systems.
+    * [Pact Formal Verification for Blockchain smart contracts](https://medium.com/kadena-io/pact-formal-verification-for-blockchain-smart-contracts-done-right-889058bd8c3f) : Awesome short blog explaining the **Pact FV's** methodology with a small introduction to formal verification by first principles.
+    * [Temoporal Blockchains - a formal analysis](https://researchportal.port.ac.uk/portal/files/5324699/A_temporal_blockchain_A_formal_analysis.pdf)
+    * [Validation of Decentralised Smart Contracts through Game Theory and Formal Methods](https://dspace.stir.ac.uk/bitstream/1893/23914/1/bHalo_Degano2015.pdf)
   + Videos
+    * [Formal Design, Implementation and Verification of BlockChain Languages](https://testnet.iohkdev.io/iele/about/formal-verification/)
+    * [CertiK - Smart contract formal verification platform (review)](https://www.youtube.com/watch?v=pLOR_WuoPaY)
+
 - #### Challenges in making AI secure
   + Readings
   + Videos
+
 - #### Create secure CyberPhysical Systems
   + Readings
   + Videos
@@ -168,10 +191,12 @@ Most of the projects are more or less development of the respective theorem prov
 - #### Languages Refinement using formal methods
   + Readings
   + Videos
+    * [Algorithmic Software Verification](https://youtu.be/DM1G__Limmo)
   
 
 
 ## Related Industries & Startups
+- **[CertiK](https://certik.org/)**
 - **[Galois Inc](https://galois.com/)**
 - **[Synthetic Minds](https://synthetic-minds.com/)**
 - **[Nomadic Labs](https://www.nomadic-labs.com/)**
