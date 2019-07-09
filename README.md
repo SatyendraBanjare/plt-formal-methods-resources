@@ -71,6 +71,7 @@ If you feel you need more theoretical insights, please refer [Note](#note-) abov
 - **[Formal Software Verification - edX](https://www.edx.org/course/formal-software-verification-0)**
 - **[Quantitative Model Checking -  Coursera](https://www.coursera.org/learn/quantitative-model-checking)**
 - **[Cyber Physical Systems](https://www.edx.org/course/cyber-physical-systems)** : Course by UC Berkeley, focused in using verification methods for modelling Cyper Physical systems (CPS).
+- **[Programming Languages - Coursera](https://www.coursera.org/learn/programming-languages)**
 
 ## Tools
 
