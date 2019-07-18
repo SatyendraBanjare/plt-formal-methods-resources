@@ -304,6 +304,7 @@ This particularily deals with improving certain properties (like Parallelism & C
 - **[Tezos](https://tezos.com/)**
 - **[JaneStreet](https://www.janestreet.com/technology/)**
 - **[Systerel](http://www.systerel.fr/en/expertise/formal-methods/)**
+- **[Tweag](https://www.tweag.io/)**
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
