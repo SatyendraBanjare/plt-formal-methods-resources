@@ -264,6 +264,7 @@ Most of the projects are more or less development of the respective theorem prov
 ### Programming Language Research related
 - #### Probabilistic Programming
   + Readings
+    * [An introduction to Probabilistic Programming](https://arxiv.org/pdf/1809.10756.pdf)
     * [Formal Verification of Higher Order Probabilistic programs](https://arxiv.org/abs/1807.06091)
     * [Probabilistic Logic Programming and Bayesian Networks](https://www.seas.upenn.edu/~cis700dr/Spring19/localpapers/haddawy2.pdf)
     * [probabilistic Functions and Cryptographic Oracles in Higher Order Logic - Andreas Lochbihler](https://www7.in.tum.de/~schulzef/2016-06-03-Andreas-Lochbihler.pdf)
